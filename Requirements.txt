@@ -1,0 +1,11 @@
+You will be needing the following packages with a python version >= 3
+
+The required packages are as follows:
+
+psutil
+platform
+datetime
+gputil
+tabulate
+
+after installing these packages you will have to download an ide or you can run this program using your command prompt also.
